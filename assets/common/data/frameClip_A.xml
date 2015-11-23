@@ -1,0 +1,5 @@
+<animation id="circle" frameRate="30">
+	
+	<clip id="progress"  data= "1 - 100 "/>
+	
+</animation>
