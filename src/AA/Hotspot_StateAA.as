@@ -31,8 +31,8 @@ package AA
 		}
 		
 		
-		//private var _multiTouch:Boolean = true;
-		private var _multiTouch:Boolean;
+		private var _multiTouch:Boolean = true;
+//		private var _multiTouch:Boolean;
 		
 		private var _hotspotImgA:ImageAA;
 		private var _hotspotImgAA:ImageAA;

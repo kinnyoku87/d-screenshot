@@ -31,7 +31,7 @@ public class Screenshot_StateAA extends StateAA {
 	override public function onEnter() : void {
 		this.doInitAlphaMask();
 		this.doInitPhoto();
-		//this.doInitCircle();
+		this.doInitCircle();
 		
 		
 	}
@@ -97,7 +97,7 @@ public class Screenshot_StateAA extends StateAA {
 		}
 		else {
 			_started = true;
-			this.doInitCircle();
+			//this.doInitCircle();
 		}
 		
 	}
